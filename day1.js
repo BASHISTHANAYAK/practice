@@ -13,5 +13,3 @@ console.log(res)
 
 //get total marks
 
-// let total = studentArry.reduce((ele,x)=>ele.marks+x);
-// console.log(total)
