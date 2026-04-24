@@ -19,3 +19,9 @@ let totalsum = studentArry.reduce((acc, data) => {
 
 }, 0);
 console.log(totalsum)
+
+//increase by 10 
+
+
+let incRes = studentArry.map((el)=>el.marks+10);
+console.log(incRes)
